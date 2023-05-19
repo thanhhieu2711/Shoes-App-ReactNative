@@ -1,5 +1,5 @@
 # Usage
 
-1. Open terminal in project then type "cd ios && pod install"
+2. Open terminal in project then type "yarn" and "cd ios && pod install"
 
-2. yarn start then press "i" to run project with ios simulator
+3. yarn start then press "i" to run project with ios simulator
